@@ -241,3 +241,9 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git pull origin master
 git add .
+git commit -m "Merged remote changes"
+git push origin main
+git push origin Tamene-eng/rdb-alpha
+git branch
+git branch origin master
+git add .
