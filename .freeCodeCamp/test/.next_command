@@ -184,3 +184,4 @@ __vsc_prompt_cmd_original
 ./fortune.sh eye
 ./fortune.sh
 touch five.sh
+chmod +x five.sh
