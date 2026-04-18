@@ -183,3 +183,4 @@ __vsc_prompt_cmd_original
 ./fortune.sh mine
 ./fortune.sh eye
 ./fortune.sh
+touch five.sh
