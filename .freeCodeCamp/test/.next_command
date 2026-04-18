@@ -258,3 +258,7 @@ git add .
 git commit -m "saving progress before pull"
 git pull origin master --rebase
 git add -A
+git pull origin master --rebase
+git pull origin master --rebase --autostash
+git pull origin master --rebase -X ours
+git add .
