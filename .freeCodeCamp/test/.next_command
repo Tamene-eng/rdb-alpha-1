@@ -186,3 +186,4 @@ __vsc_prompt_cmd_original
 touch five.sh
 chmod +x five.sh
 echo "questionnaire.sh" >> five.sh
+./five.sh
