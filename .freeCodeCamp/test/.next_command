@@ -249,3 +249,9 @@ git branch origin master
 git add .
 git commit -m "Initial commits freecode"
 git push origin main
+git pull origin master --rebase
+git add .
+git rebase --continue
+git push origin master
+git pull origin master --rebase
+git add .
