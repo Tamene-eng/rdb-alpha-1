@@ -188,3 +188,4 @@ chmod +x five.sh
 echo "questionnaire.sh" >> five.sh
 ./five.sh
 clear
+./five.sh
