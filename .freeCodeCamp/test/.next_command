@@ -190,3 +190,4 @@ echo "questionnaire.sh" >> five.sh
 clear
 ./five.sh
 help
+help type
